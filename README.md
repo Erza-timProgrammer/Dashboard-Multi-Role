@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Sistem Login Akademik
 
